@@ -1,7 +1,7 @@
-Intel MPSS 3.4 for Linux 3.13.0
+Intel MPSS 3.5 for Linux 3.13.0
 ===============================
 
-This repository contains Intel MPSS 3.4 modules. The source is patched to work
+This repository contains Intel MPSS 3.5 modules. The source is patched to work
 with Linux Kernel 3.13.0, it was only tested on Ubuntu 14.04, but should work
 on any distro since the Kernel version is 3.13.0 (not tested with newer
 kernel versions).
